@@ -1,4 +1,5 @@
-Linear Regression - USA Mercedes Benz Prices
+# Linear Regression - USA Mercedes Benz Prices
+
 Proyek ini menggunakan model regresi linear untuk menganalisis bagaimana berbagai faktor, seperti jarak tempuh (mileage), rating, dan jumlah ulasan (review count), mempengaruhi harga mobil bekas Mercedes Benz di Amerika Serikat. Tujuan utama dari proyek ini adalah untuk memahami korelasi antara faktor-faktor tersebut dengan nilai jual mobil bekas.
 
 1. Mileage:
