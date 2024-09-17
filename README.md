@@ -1,5 +1,10 @@
 # Linear Regression - USA Mercedes Benz Prices
 
+![Alt Text]([image_url_or_path](https://github.com/Markenji/Project-Linear-Regression-USA-Mercedes-Benz-Prices/blob/main/IMG_Project_Linear_Regression/1_I-MxKoiWxJXLfExpvbT1eQ.png))
+![Alt Text]([image_url_or_path](https://github.com/Markenji/Project-Linear-Regression-USA-Mercedes-Benz-Prices/blob/main/IMG_Project_Linear_Regression/1_mQN0yjE3oWr6GBzY0953pw.png))
+![Alt Text]([image_url_or_path](https://github.com/Markenji/Project-Linear-Regression-USA-Mercedes-Benz-Prices/blob/main/IMG_Project_Linear_Regression/download.png))
+
+
 Proyek ini menggunakan model regresi linear untuk menganalisis bagaimana berbagai faktor, seperti jarak tempuh (mileage), rating, dan jumlah ulasan (review count), mempengaruhi harga mobil bekas Mercedes Benz di Amerika Serikat. Tujuan utama dari proyek ini adalah untuk memahami korelasi antara faktor-faktor tersebut dengan nilai jual mobil bekas.
 
 ##  1. Mileage:
