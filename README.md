@@ -1,8 +1,10 @@
 # Linear Regression - USA Mercedes Benz Prices
 
+### Grafik Persaman Simpel Linear Regression
 ![Alt Text](https://github.com/Markenji/Project-Linear-Regression-USA-Mercedes-Benz-Prices/blob/main/IMG_Project_Linear_Regression/1_I-MxKoiWxJXLfExpvbT1eQ.png)
+
+### Rumus Persamaan Simple Linear Regression
 ![Alt Text](https://github.com/Markenji/Project-Linear-Regression-USA-Mercedes-Benz-Prices/blob/main/IMG_Project_Linear_Regression/1_mQN0yjE3oWr6GBzY0953pw.png)
-![Alt Text](https://github.com/Markenji/Project-Linear-Regression-USA-Mercedes-Benz-Prices/blob/main/IMG_Project_Linear_Regression/download.png)
 
 
 Proyek ini menggunakan model regresi linear untuk menganalisis bagaimana berbagai faktor, seperti jarak tempuh (mileage), rating, dan jumlah ulasan (review count), mempengaruhi harga mobil bekas Mercedes Benz di Amerika Serikat. Tujuan utama dari proyek ini adalah untuk memahami korelasi antara faktor-faktor tersebut dengan nilai jual mobil bekas.
@@ -33,6 +35,10 @@ Dalam konteks pemasaran, apakah fokus pada peningkatan jumlah ulasan bisa lebih 
 Penelitian ini mempertimbangkan efektivitas peningkatan jumlah ulasan dibandingkan dengan peningkatan rating untuk menaikkan harga jual.
 Hasil Model Regresi Linear:
 
+
+![Alt Text](https://github.com/Markenji/Project-Linear-Regression-USA-Mercedes-Benz-Prices/blob/main/IMG_Project_Linear_Regression/download.png)
+
+
 * Mean Absolute Error (MAE): 14,917.14
 * Persentase Penyimpangan: 37.86%
 * Model ini memprediksi harga dengan kesalahan rata-rata sekitar 37.86% dari nilai asli, yang menunjukkan bahwa prediksi model masih cukup jauh dari nilai sebenarnya.
@@ -41,6 +47,8 @@ Teknologi yang Digunakan:
 Python: Pandas, NumPy, Scikit-learn
 Visualisasi Data: Matplotlib, Seaborn
 Jupyter Notebook
+
+
 
 ##  Kesimpulan:
 
